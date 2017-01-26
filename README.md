@@ -1,1 +1,3 @@
 # BaseSimpleAppStructure
+
+Retrofit + RxJava
